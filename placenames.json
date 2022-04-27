@@ -1,32 +1,48 @@
-Anchorage
+{
+  "APB/KOR/EUPBLG": "Anchorage",
+  "APBG/RAPBLG": "Anchorage",
+  "SKWRAOU/TPHOE": "Juneau",
+  "PW*ET/EL": "Bethel",
+  "PHAT/SU": "Mat-Su",
+  "PAUPL/*ER": "Palmer",
+  "HOERPL": "Homer",
+  "SRAL/TKEZ": "Valdez",
+  "KORD/SRA" : "Cordova",
+  "KRAEUG" : "Craig",
+  "KA*EUBG" : "Kake",
+  "": "",
+  "": "",
+  "": "",
+  "": "",
+  "": "",
+  "": "",
+  "": "",
+  "": ""
+}
+
 Fairbanks
-Juneau
 Sitka
 Ketchikan
 Wasilla
 Matanuska-Susitna
-Mat-Su
 Kenai
 Kodiak
-Bethel
-Palmer
-Homer
+
 Unalaska
 Utqiaġvik
 Barrow
 North Slope
 Soldotna
-Valdez
+
 Chugach
 Nome
 Kotzebue
 Seward
 Wrangell
 Dillingham
-Cordova
+
 North Pole
 Houston
-Craig
 Prince of Wales
 Hyder
 Hooper Bay
@@ -56,7 +72,6 @@ Fort Yukon
 Kotlik
 Pilot Station
 Shishmaref
-Kake	
 First Class	
 Petersburg
 Stebbins
