@@ -1,7 +1,13 @@
 {
+  "TKUG/HRAS": "Douglas",
+  "SKWRAOU/TPHOE": "Juneau",
+  "ABG": "Auke",
+  "": "Gastineau",
+  "TA/KU": "Taku",
+  "": "",
   "APB/KOR/EUPBLG": "Anchorage",
   "APBG/RAPBLG": "Anchorage",
-  "SKWRAOU/TPHOE": "Juneau",
+
   "PW*ET/EL": "Bethel",
   "PHAT/SU": "Mat-Su",
   "PAUPL/*ER": "Palmer",
@@ -10,6 +16,18 @@
   "KORD/SRA" : "Cordova",
   "KRAEUG" : "Craig",
   "KA*EUBG" : "Kake",
+  "PWA*EUR/ROE": "Barrow",
+  "SEUT/KA": "Sitka",
+  "KEFP/K": "Ketchikan",
+  "KEFP/KAPB": "Ketchikan",
+  "SOL/TKOT/TPHA": "Soldotna",
+  "TPHO*EPL": "Nome",
+  "KHAO/TKPWAFP": "Chugach",
+  "ABG/TAPB": "Akutan",
+  "KE/TPHAOEU": "Kenai",
+  "KHE/SRABG": "Chevak",
+  "UPB/A*LG": "Unalaska",
+  "UPB/AL/AS/KA": "Unalaska",
   "": "",
   "": "",
   "": "",
@@ -21,35 +39,26 @@
 }
 
 Fairbanks
-Sitka
-Ketchikan
 Wasilla
 Matanuska-Susitna
-Kenai
-Kodiak
 
-Unalaska
+KOD/KWRABG Kodiak [??]
+
 Utqiaġvik
-Barrow
 North Slope
-Soldotna
-
-Chugach
-Nome
 Kotzebue
 Seward
 Wrangell
 Dillingham
-
 North Pole
-Houston
+HAOU/STOPB Houston
 Prince of Wales
 Hyder
 Hooper Bay
-Akutan
+ABG/TAPB Akutan
 Sand Point
 Delta Junction
-Chevak
+KHE/SRABG Chevak
 King Cove
 Selawik
 Togiak
@@ -131,19 +140,19 @@ Upper Kalskag
 Grayling
 Port Lions
 Mekoryuk
-Kaltag
+KAL/TAG Kaltag
 Newhalen
 White Mountain
 Nunam Iqua
 Holy Cross
-Coffman Cove
-Nondalton
+KOF/PHA*PB/KO*EF Coffman Cove
+TPHAUPB/TKAL/TO*PB Nondalton
 Ouzinkie
 Golovin
-Kobuk
-Wales
+KO/PWUBG Kobuk
+WAELS Wales
 Tenakee Springs
-Deering
+TKAOER/G Deering
 Chuathbaluk
 Diomede
 Ekwok
@@ -162,7 +171,7 @@ Larsen Bay
 Eagle
 Anvik
 Shageluk
-Hughes
+HAOUS Hughes
 Akhiok
 Pilot Point
 Clark's Point
