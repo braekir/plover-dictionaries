@@ -27,16 +27,14 @@
   "SOL/TKOT/TPHA": "Soldotna",
   "TPHO*EPL": "Nome",
   "KHAO/TKPWAFP": "Chugach",
-  "ABG/TAPB": "Akutan",
   "KE/TPHAOEU": "Kenai",
   "KHE/SRABG": "Chevak",
   "UPB/A*LG": "Unalaska",
   "UPB/AL/AS/KA": "Unalaska",
-  "": "",
-  "": "",
-  "": "",
-  "": "",
-  "": "",
+  "TKEULG/HA*PL": "Dillingham",
+  "ABG/TAPB": "Akutan",
+  "TKAPB": "Akutan",
+  "SAOURD": "Seward",
   "": "",
   "": "",
   "": ""
@@ -45,28 +43,22 @@
 Fairbanks
 Wasilla
 Matanuska-Susitna
-
 KOD/KWRABG Kodiak [??]
-
 Utqiaġvik
 North Slope
 Kotzebue
-Seward
 Wrangell
-Dillingham
 North Pole
 HAOU/STOPB Houston
 Prince of Wales
-Hyder
+HAOEURD Hyder
 Hooper Bay
-ABG/TAPB Akutan
 Sand Point
 Delta Junction
-KHE/SRABG Chevak
+
 King Cove
-Selawik
+S*EL/WEUBG Selawik
 Togiak
-Dillingham
 Mountain Village
 Kusilvak
 Emmonak	
